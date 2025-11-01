@@ -84,3 +84,8 @@ EnergiSense/
 │
 ├── pom.xml
 ```
+## 6. Library atau Framework
+<img width="281" height="99" alt="image" src="https://github.com/user-attachments/assets/f31232df-9174-41f1-a9a3-fff3c93877e9" />
+1. Import java.awt.*; berfungsi untuk mengimpor seluruh kelas dari paket java.awt (Abstract Window Toolkit). Paket ini digunakan untuk membangun user interface dasar seperti tombol, label, warna, layout, dan elemen visual lainnya. Contoh komponennya meliputi: Button, Label, TextField, Panel, Color, Font, dll.
+2. import javax.swing.*; berfungsi mengimpor seluruh kelas dari paket javax.swing, yang merupakan framework GUI modern di Java. Swing digunakan untuk membuat tampilan program yang lebih interaktif dan fleksibel dibanding AWT. pada program Energisense menggunakan Swing untuk menampilkan Dashboard, Form Login, Data Perangkat, dan Laporan Efisiensi Energi.
+3. import model.Admin; berfungsi mengimpor kelas Admin dari paket model. Kelas ini merupakan bagian dari struktur OOP proyek Energisense yang menerapkan konsep inheritance dari kelas Pengguna.
