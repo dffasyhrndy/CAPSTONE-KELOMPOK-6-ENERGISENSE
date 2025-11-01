@@ -116,6 +116,7 @@ EnergiSense/
    Mengimpor semua kelas dari paket java.sql agar program bisa menjalankan query SQL ke database.
 
 <img width="366" height="208" alt="image" src="https://github.com/user-attachments/assets/d7ed31d0-ebf3-4f23-8868-ad5e18f9dc34" />
+
 1. **import java.sql.ResultSet;**
    berfungsi untuk menyimpan hasil query SELECT dari database
 2. **import model.Biasa;**
@@ -124,9 +125,15 @@ EnergiSense/
    yaitu kelas turunan dari Pengguna yang mewakili pengguna umum dengan akses terbatas hanya untuk melihat data dan rekomendasi efisiensi.
 
 <img width="307" height="74" alt="image" src="https://github.com/user-attachments/assets/ddeafd0a-1fa2-46f2-9619-4aeff4b82c00" />
+
 1. **import java.sql.Connection;**
    Mengimpor kelas Connection, yang digunakan untuk membuat dan memelihara koneksi antara program Java dan database (misalnya MySQL). Objek Connection inilah yang menjadi jalan agar program bisa menjalankan query SQL seperti INSERT, SELECT, UPDATE, atau DELETE.
 2. **import java.sql.DriverManager;**
    DriverManager berfungsi untuk mendaftarkan dan mengelola driver database. Dengan DriverManager, kamu bisa memanggil database driver seperti com.mysql.cj.jdbc.Driver dan membuat koneksi melalui URL JDBC.
 3. **import java.sql.SQLException;**
    library ini digunakan untuk menangani kesalahan (error) yang terjadi saat proses koneksi atau eksekusi SQL.
+
+<img width="226" height="30" alt="image" src="https://github.com/user-attachments/assets/e912d4f3-299e-419c-9357-1d546b00ee50" />
+
+1. **import java.sql.Date;**
+  digunakan untuk merepresentasikan data tanggal (tanpa jam dan menit) yang diambil dari atau dikirim ke database MySQL.
