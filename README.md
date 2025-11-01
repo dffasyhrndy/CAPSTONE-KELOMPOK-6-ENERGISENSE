@@ -105,3 +105,12 @@ EnergiSense/
    digunakan untuk query dinamis, terutama untuk INSERT, UPDATE, DELETE agar lebih aman dari SQL Injection.
 4. **import java.sql.Statement;**
    untuk menjalankan query statis seperti SELECT * FROM pengguna.
+   
+<img width="523" height="201" alt="image" src="https://github.com/user-attachments/assets/0cf4db07-b62f-4c9b-9273-4069419e2d3d" />
+
+1. **import java.awt.event.*;**
+   Untuk mengimpor kelas-kelas yang digunakan untuk menangani interaksi pengguna (event handling), seperti klik tombol atau input teks.
+2. **import javax.swing.table.DefaultTableModel;**
+   Mengimpor kelas DefaultTableModel yang digunakan untuk mengatur data dalam JTable. Kelas ini berperan penting saat menampilkan data dari database (misalnya data pengguna atau perangkat).
+3. **import java.sql.*;**
+   Mengimpor semua kelas dari paket java.sql agar program bisa menjalankan query SQL ke database.
