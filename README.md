@@ -94,3 +94,14 @@ EnergiSense/
  berfungsi mengimpor seluruh kelas dari paket javax.swing, yang merupakan framework GUI modern di Java. Swing digunakan untuk membuat tampilan program yang lebih interaktif dan fleksibel dibanding AWT. pada program Energisense menggunakan Swing untuk menampilkan Dashboard, Form Login, Data Perangkat, dan Laporan Efisiensi Energi.
 3.  **import model.Admin;**
    berfungsi mengimpor kelas Admin dari paket model. Kelas ini merupakan bagian dari struktur OOP proyek Energisense yang menerapkan konsep inheritance dari kelas Pengguna.
+
+<img width="428" height="165" alt="image" src="https://github.com/user-attachments/assets/048eb4c6-ea5b-4270-9c4b-a7d20ac9b63e" />
+
+1. **import db.Koneksi;**
+   berfungsi mengimpor kelas Koneksi dari package db.
+2. **import java.sql.Connection;**
+   berfungsi membuka koneksi ke database
+3. **import java.sql.PreparedStatement;**
+   digunakan untuk query dinamis, terutama untuk INSERT, UPDATE, DELETE agar lebih aman dari SQL Injection.
+4. **import java.sql.Statement;**
+   untuk menjalankan query statis seperti SELECT * FROM pengguna.
