@@ -140,115 +140,115 @@ EnergiSense/
 
 ## 6. Cara Menggunakan Program
 
-1. Halaman Login
+**1. Halaman Login**
    
    ![Gambar WhatsApp 2025-11-02 pukul 18 29 13_987a3a85](https://github.com/user-attachments/assets/5c439a52-5f64-41a9-8492-107636ecfcd5)
 
 Halaman login terdiri dari email, password, dan tombol Masuk. Terdapat opsi "Belum punya akun?" untuk pengguna yg belum memiliki akun dan ingin melakukan registrasi, dan tombol Keluar.
 
-2. Menu Utama Admin
+**2. Menu Utama Admin**
    
    ![Gambar WhatsApp 2025-11-02 pukul 18 29 13_9e7f1538](https://github.com/user-attachments/assets/d277f79e-0087-44cb-a9f4-02cf44cd83b0)
 
 Terdapat 4 pilihan Menu Admin: Kelola Daftar Pengguna Biasa, Kelola Daftar Perangkat, Kelola Daftar Sumber Terbarukan, dan Kelola Daftar Laporan.
 
-3. Dashboard Admin - Kelola Laporan Efisiensi
+**3. Dashboard Admin - Kelola Laporan Efisiensi**
 
 ![Gambar WhatsApp 2025-11-02 pukul 18 29 14_8639d013](https://github.com/user-attachments/assets/f163582a-20f1-4a92-bf5c-c961d031cc86)
 
 Admin dapat melihat semua laporan efisiensi pengguna dengan data periode, total energi (kWh), skor efisiensi, dan saran hemat. Terdapat dialog untuk mengedit laporan dengan input periode dan total energi.
 
-4. Dashboard Admin - Tambah Pengguna Biasa
+**4. Dashboard Admin - Tambah Pengguna Biasa**
 
    ![Gambar WhatsApp 2025-11-02 pukul 18 29 15_1f627f5c](https://github.com/user-attachments/assets/813045a5-d20c-4eb6-8296-9d0e8839cdc7)
 
 Tabel daftar pengguna dengan dialog untuk menambah pengguna baru (nama, email, kata sandi, dan tipe pengguna).
 
-5. Dashboard Admin - Edit Pengguna Biasa
+**5. Dashboard Admin - Edit Pengguna Biasa**
    
 ![Gambar WhatsApp 2025-11-02 pukul 18 29 15_7f2d03fe](https://github.com/user-attachments/assets/c8edf91f-97e3-4e5d-b496-61d2d1882a33)
 
 Tabel edit data pengguna yang sudah terdaftar dengan opsi mengubah nama, email, kata sandi, dan tipe pengguna.
 
-6. Dashboard Admin - Konfirmasi Hapus Pengguna
+**6. Dashboard Admin - Konfirmasi Hapus Pengguna**
 
   ![Gambar WhatsApp 2025-11-02 pukul 18 29 16_bef6a4c1](https://github.com/user-attachments/assets/e6d94b64-09a4-42f6-af75-3c27d5dede98)
 
 Tabel konfirmasi sebelum menghapus pengguna dengan tombol Yes dan No untuk keamanan data.
 
-7. Dashboard Admin - Data Perangkat (View Only)
+**7. Dashboard Admin - Data Perangkat (View Only)**
    
    ![Gambar WhatsApp 2025-11-02 pukul 18 29 16_c64facd8](https://github.com/user-attachments/assets/3287a341-bda2-4241-995d-d691013e466f)
 
 Admin dapat melihat semua perangkat pengguna dengan info ID, nama perangkat, daya (W), status, pemilik, email pemilik, dan admin pengawas.
 
-8. Dashboard Admin - Kelola Sumber Energi Terbarukan
+**8. Dashboard Admin - Kelola Sumber Energi Terbarukan**
    
    ![Gambar WhatsApp 2025-11-02 pukul 18 29 16_0141690f](https://github.com/user-attachments/assets/20c75599-b97b-46b9-a8c8-1b723113b533)
 
 Tabel lengkap data sumber energi terbarukan dengan informasi ID, jenis sumber, kapasitas, kontribusi, tanggal catat, pemilik, dan admin pengawasnya.
 
-9. Dashboard Admin - Tambah Sumber Energi Terbarukan
+**9. Dashboard Admin - Tambah Sumber Energi Terbarukan**
 
     ![Gambar WhatsApp 2025-11-02 pukul 18 29 17_c7bd75f7](https://github.com/user-attachments/assets/8f695955-5fe1-4f95-a10c-1c7ae83a7a0f)
 
 Tabel untuk menambah data sumber energi baru dengan input jenis sumber, kapasitas (kW), kontribusi (kWh), tanggal catat, dan ID pemilik.
 
-10. Dashboard Admin - Edit Sumber Energi Terbarukan
+**10. Dashboard Admin - Edit Sumber Energi Terbarukan**
     
     ![Gambar WhatsApp 2025-11-02 pukul 18 29 17_88b70fd6](https://github.com/user-attachments/assets/e2ddbe36-8d8d-44c2-8992-f1a29ab5c99f)
 
 Tabel edit data sumber energi terbarukan yang sudah ada dengan opsi mengubah semua field data.
 
-11. Dashboard Admin - Kelola Laporan Efisiensi
+**11. Dashboard Admin - Kelola Laporan Efisiensi**
     
    ![Gambar WhatsApp 2025-11-02 pukul 18 29 17_9a08ecb8](https://github.com/user-attachments/assets/0883f72b-2dc9-4e37-8ec5-9174b41145d0)
 
 Tampilan lengkap tabel laporan efisiensi dengan tombol Buat/Create, Refresh, Edit/Update, dan Hapus/Delete untuk mengelola data.
 
-12. Dashboard Admin - Tabel Tambah Laporan
-
+**12. Dashboard Admin - Tabel Tambah Laporan
+**
     ![Gambar WhatsApp 2025-11-02 pukul 18 29 18_638e6604](https://github.com/user-attachments/assets/8d6ef9d9-4d1c-4fe3-bf3c-90776a5cb6fa)
 
 Tabel input laporan efisiensi baru dengan field ID pengguna, periode (YYYY-MM), dan total energi (kWh).
 
-13. Dashboard Admin - Edit Laporan Efisiensi
+**13. Dashboard Admin - Edit Laporan Efisiensi**
 
     ![Gambar WhatsApp 2025-11-02 pukul 18 29 18_0b25b185](https://github.com/user-attachments/assets/9a3ff8e2-5530-4f3d-8b7a-d8370d214a40)
 
 Tabel edit laporan efisiensi yang sudah ada dengan input periode (2025-11) dan total energi (90.00 kWh) untuk memperbarui data laporan pengguna.
 
-14 Form Registrasi pengguna
+**14 Form Registrasi pengguna**
 
 ![Gambar WhatsApp 2025-11-02 pukul 18 29 18_ac1db04f](https://github.com/user-attachments/assets/1cc99181-ce3f-4952-844d-6f20970a2754)
 
 Halaman pendaftaran akun baru dengan input nama, email, password, dan tipe pengguna (rumah/kantor/industri).
 
-15. Menu Utama Pengguna Biasa
+**15. Menu Utama Pengguna Biasa**
 
 ![Gambar WhatsApp 2025-11-02 pukul 18 29 19_ce1b0e4f](https://github.com/user-attachments/assets/2ded5e2f-182a-4b7f-982a-a523e007d2ee)
 
 Menu navigasi dengan 4 pilihan: Laporan Efisiensi, Sumber Terbarukan, Perangkat, dan Kembali/Logout.
 
-16. Dashboard Pengguna - Laporan Efisiensi
+**16. Dashboard Pengguna - Laporan Efisiensi**
 
     ![Gambar WhatsApp 2025-11-02 pukul 18 29 19_b394eff3](https://github.com/user-attachments/assets/31101ae6-3767-41c9-8814-d65aa424ddb4)
 
 Pengguna melihat laporan konsumsi energi pribadi dan dapat membuat laporan baru dengan dialog input periode dan total energi.
 
-17. Dashboard Pengguna - Sumber Terbarukan
+**17. Dashboard Pengguna - Sumber Terbarukan**
 
     ![Gambar WhatsApp 2025-11-02 pukul 18 29 20_65dc362b](https://github.com/user-attachments/assets/888a9182-f610-4548-85cc-5fa45858ac51)
 
 Pengguna mengelola data sumber energi terbarukan pribadi dengan tabel input jenis sumber, kapasitas (kW), kontribusi (kWh), dan tanggal catat.
 
-18. Dashboard Pengguna - Tambah Perangkat
+**18. Dashboard Pengguna - Tambah Perangkat**
 
     ![Gambar WhatsApp 2025-11-02 pukul 18 29 20_9b31fe31](https://github.com/user-attachments/assets/ca0b95f3-13a1-46b0-820c-49dfcefc368a)
 
 Halaman manajemen perangkat dengan dialog untuk menambah perangkat baru (nama perangkat, daya W, dan status ON/OFF).
 
-19. Dashboard Pengguna - Edit Perangkat
+**19. Dashboard Pengguna - Edit Perangkat**
 
     ![Gambar WhatsApp 2025-11-02 pukul 18 29 20_fb664401](https://github.com/user-attachments/assets/a560e6de-f382-4b1b-bb2a-a32c91d3d65b)
 
