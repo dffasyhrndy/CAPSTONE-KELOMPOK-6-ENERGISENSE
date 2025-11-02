@@ -137,3 +137,12 @@ EnergiSense/
 
 1. **import java.sql.Date;**
   digunakan untuk merepresentasikan data tanggal (tanpa jam dan menit) yang diambil dari atau dikirim ke database MySQL.
+
+## 6. Cara Menggunakan Program
+
+1. Halaman Login
+   
+   ![Gambar WhatsApp 2025-11-02 pukul 18 29 13_987a3a85](https://github.com/user-attachments/assets/5c439a52-5f64-41a9-8492-107636ecfcd5)
+
+Halaman login terdiri dari email dan password, tombol Masuk. Terdapat opsi "Belum punya akun?" untuk pengguna yg belum memiliki akun dan ingin melakukan registrasi, dan tombol Keluar.   
+
