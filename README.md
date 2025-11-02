@@ -190,13 +190,13 @@ Tabel lengkap data sumber energi terbarukan dengan informasi ID, jenis sumber, k
 
 **9. Dashboard Admin - Tambah Sumber Energi Terbarukan**
 
-    ![Gambar WhatsApp 2025-11-02 pukul 18 29 17_c7bd75f7](https://github.com/user-attachments/assets/8f695955-5fe1-4f95-a10c-1c7ae83a7a0f)
+![Gambar WhatsApp 2025-11-02 pukul 18 29 17_e8fa7c07](https://github.com/user-attachments/assets/2020d55e-1bee-4c64-b0bc-d4084d469623)
 
 Tabel untuk menambah data sumber energi baru dengan input jenis sumber, kapasitas (kW), kontribusi (kWh), tanggal catat, dan ID pemilik.
 
 **10. Dashboard Admin - Edit Sumber Energi Terbarukan**
     
-    ![Gambar WhatsApp 2025-11-02 pukul 18 29 17_88b70fd6](https://github.com/user-attachments/assets/e2ddbe36-8d8d-44c2-8992-f1a29ab5c99f)
+![Gambar WhatsApp 2025-11-02 pukul 18 29 17_8b7792f2](https://github.com/user-attachments/assets/45e26438-dde8-4e88-aaab-b34bc57b67e4)
 
 Tabel edit data sumber energi terbarukan yang sudah ada dengan opsi mengubah semua field data.
 
@@ -214,7 +214,7 @@ Tabel input laporan efisiensi baru dengan field ID pengguna, periode (YYYY-MM), 
 
 **13. Dashboard Admin - Edit Laporan Efisiensi**
 
-    ![Gambar WhatsApp 2025-11-02 pukul 18 29 18_0b25b185](https://github.com/user-attachments/assets/9a3ff8e2-5530-4f3d-8b7a-d8370d214a40)
+![Gambar WhatsApp 2025-11-02 pukul 18 29 18_8da2b1fe](https://github.com/user-attachments/assets/f832909c-b0cf-4c10-ac17-e3cb08723862)
 
 Tabel edit laporan efisiensi yang sudah ada dengan input periode (2025-11) dan total energi (90.00 kWh) untuk memperbarui data laporan pengguna.
 
@@ -232,24 +232,24 @@ Menu navigasi dengan 4 pilihan: Laporan Efisiensi, Sumber Terbarukan, Perangkat,
 
 **16. Dashboard Pengguna - Laporan Efisiensi**
 
-    ![Gambar WhatsApp 2025-11-02 pukul 18 29 19_b394eff3](https://github.com/user-attachments/assets/31101ae6-3767-41c9-8814-d65aa424ddb4)
+![Gambar WhatsApp 2025-11-02 pukul 18 29 19_4f2a1b20](https://github.com/user-attachments/assets/a8427b44-3fa2-4493-9f8e-92621a0c7d23)
 
 Pengguna melihat laporan konsumsi energi pribadi dan dapat membuat laporan baru dengan dialog input periode dan total energi.
 
 **17. Dashboard Pengguna - Sumber Terbarukan**
 
-    ![Gambar WhatsApp 2025-11-02 pukul 18 29 20_65dc362b](https://github.com/user-attachments/assets/888a9182-f610-4548-85cc-5fa45858ac51)
+  ![Gambar WhatsApp 2025-11-02 pukul 18 29 20_aec47527](https://github.com/user-attachments/assets/1e484211-0c11-47cd-94b4-5cd77074ea78)
 
 Pengguna mengelola data sumber energi terbarukan pribadi dengan tabel input jenis sumber, kapasitas (kW), kontribusi (kWh), dan tanggal catat.
 
 **18. Dashboard Pengguna - Tambah Perangkat**
 
-    ![Gambar WhatsApp 2025-11-02 pukul 18 29 20_9b31fe31](https://github.com/user-attachments/assets/ca0b95f3-13a1-46b0-820c-49dfcefc368a)
+![Gambar WhatsApp 2025-11-02 pukul 18 29 20_a472ba65](https://github.com/user-attachments/assets/febc7405-d609-4f71-83b5-a7c848313b46)
 
 Halaman manajemen perangkat dengan dialog untuk menambah perangkat baru (nama perangkat, daya W, dan status ON/OFF).
 
 **19. Dashboard Pengguna - Edit Perangkat**
 
-    ![Gambar WhatsApp 2025-11-02 pukul 18 29 20_fb664401](https://github.com/user-attachments/assets/a560e6de-f382-4b1b-bb2a-a32c91d3d65b)
+![Gambar WhatsApp 2025-11-02 pukul 18 29 20_1b62e592](https://github.com/user-attachments/assets/ad99fecf-26ab-467b-baac-602ddb4aa65a)
 
 Tabel edit perangkat elektronik yang sudah ada dengan opsi mengubah nama, daya, dan status perangkat.
