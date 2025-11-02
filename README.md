@@ -144,5 +144,34 @@ EnergiSense/
    
    ![Gambar WhatsApp 2025-11-02 pukul 18 29 13_987a3a85](https://github.com/user-attachments/assets/5c439a52-5f64-41a9-8492-107636ecfcd5)
 
-Halaman login terdiri dari email dan password, tombol Masuk. Terdapat opsi "Belum punya akun?" untuk pengguna yg belum memiliki akun dan ingin melakukan registrasi, dan tombol Keluar.   
+Halaman login terdiri dari email, password, dan tombol Masuk. Terdapat opsi "Belum punya akun?" untuk pengguna yg belum memiliki akun dan ingin melakukan registrasi, dan tombol Keluar.
 
+2. Menu Utama Admin
+   
+   ![Gambar WhatsApp 2025-11-02 pukul 18 29 13_9e7f1538](https://github.com/user-attachments/assets/d277f79e-0087-44cb-a9f4-02cf44cd83b0)
+
+Terdapat 4 pilihan Menu Admin: Kelola Daftar Pengguna Biasa, Kelola Daftar Perangkat, Kelola Daftar Sumber Terbarukan, dan Kelola Daftar Laporan.
+
+3. Dashboard Admin - Kelola Laporan Efisiensi
+
+![Gambar WhatsApp 2025-11-02 pukul 18 29 14_8639d013](https://github.com/user-attachments/assets/f163582a-20f1-4a92-bf5c-c961d031cc86)
+
+Admin dapat melihat semua laporan efisiensi pengguna dengan data periode, total energi (kWh), skor efisiensi, dan saran hemat. Terdapat dialog untuk mengedit laporan dengan input periode dan total energi.
+
+4. Dashboard Admin - Tambah Pengguna Biasa
+
+   ![Gambar WhatsApp 2025-11-02 pukul 18 29 15_1f627f5c](https://github.com/user-attachments/assets/813045a5-d20c-4eb6-8296-9d0e8839cdc7)
+
+   Tabel daftar pengguna dengan dialog untuk menambah pengguna baru (nama, email, kata sandi, dan tipe pengguna).
+
+5. Dashboard Admin - Edit Pengguna Biasa
+   
+![Gambar WhatsApp 2025-11-02 pukul 18 29 15_7f2d03fe](https://github.com/user-attachments/assets/c8edf91f-97e3-4e5d-b496-61d2d1882a33)
+
+Tabel edit data pengguna yang sudah terdaftar dengan opsi mengubah nama, email, kata sandi, dan tipe pengguna.
+
+6. Dashboard Admin - Konfirmasi Hapus Pengguna
+
+  ![Gambar WhatsApp 2025-11-02 pukul 18 29 16_bef6a4c1](https://github.com/user-attachments/assets/e6d94b64-09a4-42f6-af75-3c27d5dede98)
+
+Tabel konfirmasi sebelum menghapus pengguna dengan tombol Yes dan No untuk keamanan data.
