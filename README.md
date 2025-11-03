@@ -253,3 +253,11 @@ Halaman manajemen perangkat dengan dialog untuk menambah perangkat baru (nama pe
 ![Gambar WhatsApp 2025-11-02 pukul 18 29 20_1b62e592](https://github.com/user-attachments/assets/ad99fecf-26ab-467b-baac-602ddb4aa65a)
 
 Tabel edit perangkat elektronik yang sudah ada dengan opsi mengubah nama, daya, dan status perangkat.
+
+## 7. Flowchart
+
+https://drive.google.com/file/d/1bVAJVIfoFzy5SjJ4Oyw27Whjy-3_bdlq/view
+
+## 8. USE CASE
+
+https://drive.google.com/file/d/1yCb0Kj1Pu9uzMRE2gJ6xSOaXTdqCcV4s/view
